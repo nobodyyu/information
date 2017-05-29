@@ -1,12 +1,16 @@
-[{
-	"sort":1,
-	"type":"webstring",
-	"name":"106年03-04月",
-	"url":"https://raw.githubusercontent.com/nobodyyu/information/master/taxInvoice2017-03.html"
- },{
-	"sort":2,
-	"type":"webstring",
-	"name":"106年01-02月",
-	"url":"https://raw.githubusercontent.com/nobodyyu/information/master/taxInvoice2017-01.html"
- }
-]
+{
+	"ut":"2017/05/29 00:00:00",
+	"data":[{
+		"sort":1,
+		"type":"webstring",
+		"name":"106年03-04月",
+		"url":"https://raw.githubusercontent.com/nobodyyu/information/master/taxInvoice2017-03.html"
+	 },{
+		"sort":2,
+		"type":"webstring",
+		"name":"106年01-02月",
+		"url":"https://raw.githubusercontent.com/nobodyyu/information/master/taxInvoice2017-01.html"
+	 }
+	]
+}
+
