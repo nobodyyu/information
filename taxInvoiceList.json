@@ -1,11 +1,11 @@
 [{
 	"sort":1,
-	"type":"web",
+	"type":"webstring",
 	"name":"106年03-04月",
 	"url":"https://raw.githubusercontent.com/nobodyyu/information/master/taxInvoice2017-03.html"
  },{
 	"sort":2,
-	"type":"web",
+	"type":"webstring",
 	"name":"106年01-02月",
 	"url":"https://raw.githubusercontent.com/nobodyyu/information/master/taxInvoice2017-01.html"
  }
